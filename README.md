@@ -139,7 +139,7 @@ advance query.sql
 ## 🛠️ Technologies Used
 
 * SQL
-* MySQL / PostgreSQL
+* PostgreSQL
 * CSV Dataset
 
 ---
